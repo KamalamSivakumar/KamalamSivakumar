@@ -5,7 +5,7 @@ Hi there! I'm Kamalam, an avid coder and enthusiastic learner exploring the vast
 Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:chart_with_upwards_trend: _fields_of_interests_: computer vision & image analysis, deep learning, machine learning 
+:chart_with_upwards_trend: _current_fields_of_interests_: computer vision & image analysis, deep learning, machine learning 
 
 :clipboard: _technical_background_: machine learning, exploratory data analysis, data visualisation, problem-solving
 
