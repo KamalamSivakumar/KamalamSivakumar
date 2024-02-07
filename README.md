@@ -1,16 +1,16 @@
-# Welcome to the_lotus_git!👋 
+# Welcome to the_lotus_git! :tulip: 
+ps: ik that's a tulip emoji! couldn't find a lotus :(
 ## About me
-Hello there! I'm Kamalam, a passionate coder and a curious learner on a journey through the realms of technology. Welcome to my GitHub space where I share insights, projects and thoughts on various topics related to data science, machine learning, and beyond.
+Hi there! I'm Kamalam, an avid coder and enthusiastic learner exploring the vast realms of technology. 
+Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
 
-## What to Expect?
-### the_lotus_code_list
-This section of my GitHub repository is dedicated to my coding blog, where I delve into learning more about deep learning, machine learning, Python, data manipulation, and much more.
-Join me and help me in exploring the world of programming and machine learning.
+-------------------------------------------------------------------------------------------------------------------------------------
+:chart_with_upwards_trend: _fields_of_interests_: computer vision & image analysis, deep learning, machine learning 
 
-### the_lotus_flair
-In my blog, "the_lotus_flair", I contemplate my experiences and inner musings, offering perspectives, opinions, and discussions on a myriad of topics. I find joy in sharing and conversing, and I'm excited to extend that dialogue to this platform. Let's engage and explore together! 
+:clipboard: _technical_background_: machine learning, exploratory data analysis, data visualisation, problem-solving
 
-## Let's Connect!
-I'm always eager to learn something new and engage in meaningful discussions. Whether you have a question, an idea to share, or just want to connect, feel free to reach out to me via GitHub.
+:round_pushpin: _currently_working_on_: hyperspectral image analysis, generative adversarial networks
 
-Thank you for stopping by, and let's embark on this coding journey together!
+:paperclips: _will_work_on_: optimisation in deep learning, conversational-ai
+
+:briefcase: _hobbies_: reading books, kalimba, glass-painting 
