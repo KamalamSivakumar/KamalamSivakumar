@@ -9,7 +9,7 @@ Delve into my GitHub repository where I showcase projects and insights spanning 
 
 :clipboard: _technical_background_: machine learning, exploratory data analysis, data visualisation, problem-solving
 
-:round_pushpin: _currently_working_on_: hyperspectral image analysis, generative adversarial networks
+:round_pushpin: _currently_working_on_: hyperspectral image analysis, generative adversarial networks, reinforcement learning
 
 :paperclips: _will_work_on_: optimisation in deep learning, conversational-ai
 
