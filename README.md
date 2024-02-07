@@ -1,5 +1,5 @@
 # Welcome to the_lotus_git! :tulip: 
-ps: ik that's a tulip emoji! couldn't find a lotus :(
+ps: ik that's a tulip emoji! couldn't find a lotus.
 ## About me
 Hi there! I'm Kamalam, an avid coder and enthusiastic learner exploring the vast realms of technology. 
 Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
