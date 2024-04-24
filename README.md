@@ -1,5 +1,6 @@
 # Welcome to the_lotus_git! :tulip: 
 ps: ik that's a tulip emoji! couldn't find a lotus.
+#### [resume_kamalam_sivakumar](https://github.com/KamalamSivakumar/resume/blob/main/resume_kamalam_sivakumar.pdf)
 ## About me
 Hi there! I'm Kamalam, an avid coder and enthusiastic learner exploring the vast realms of technology. 
 Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
