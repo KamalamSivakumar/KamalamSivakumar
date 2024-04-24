@@ -14,5 +14,3 @@ Delve into my GitHub repository where I showcase projects and insights spanning 
 :paperclips: _will_work_on_: optimisation in deep learning, conversational-ai
 
 :briefcase: _hobbies_: reading books, kalimba, glass-painting 
-
-:page_facing_up: (https://github.com/KamalamSivakumar/KamalamSivakumar.github.io/blob/main/resume_kamalam_sivakumar.pdf)
