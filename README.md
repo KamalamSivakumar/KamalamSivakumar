@@ -6,12 +6,12 @@ Hi there! I'm Kamalam, an avid coder and enthusiastic learner exploring the vast
 Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
 
 -------------------------------------------------------------------------------------------------------------------------------------
-:chart_with_upwards_trend: _current_fields_of_interests_: computer vision & image analysis, deep learning, machine learning 
+:chart_with_upwards_trend: _current_fields_of_interests_: deep learning, machine learning, nlp, prompt engineering
 
-:clipboard: _technical_background_: machine learning, exploratory data analysis, data visualisation, problem-solving
+:clipboard: _technical_background_: machine learning, deep learning, exploratory data analysis, data visualisation, problem-solving
 
-:round_pushpin: _currently_working_on_: hyperspectral image analysis, generative adversarial networks, reinforcement learning
+:round_pushpin: _currently_exploring_: prompt engineering, nlp
 
-:paperclips: _will_work_on_: optimisation in deep learning, conversational-ai
+:paperclips: _will_work_on_: interpretability in machine learning models, optimisation in deep learning, conversational-ai
 
-:briefcase: _hobbies_: reading books, kalimba, glass-painting 
+:briefcase: _hobbies_: reading books, playing kalimba, glass-painting
