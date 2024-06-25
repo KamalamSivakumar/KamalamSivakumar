@@ -4,7 +4,7 @@ ps: ik that's a tulip emoji! couldn't find a lotus.
 ## About me
 Hi there! I'm Kamalam, an enthusiatic learner exploring the vast realms of technology. 
 
-I'm an ai/ml engineer. I'm passionate about research and I'm striving hard to get professionally into it one day. 
+I'm an ai/ml engineer by profession, delving into the world of research.
 
 Do reach out to me for collaborations, suggestions, opportunities or just to chat on anything tech. [linkedin](https://www.linkedin.com/in/kamalamsivakumar/)
 
