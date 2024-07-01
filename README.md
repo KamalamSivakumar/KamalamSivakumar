@@ -6,9 +6,9 @@ Hi there! I'm Kamalam, an enthusiatic learner exploring the vast realms of techn
 
 I'm an ai/ml engineer by profession, delving into the world of research.
 
-Do reach out to me for collaborations, suggestions, opportunities or just to chat on anything tech. [linkedin](https://www.linkedin.com/in/kamalamsivakumar/)
+Do reach out to me for collaborations, suggestions, opportunities or just to chat on anything tech. [linkedin](https://www.linkedin.com/in/kamalamsivakumar/) 
 
-Delve into my GitHub repository where I showcase projects and insights spanning data science, machine learning, and more. :smile:
+Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
