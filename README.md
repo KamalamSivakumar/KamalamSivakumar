@@ -1,7 +1,6 @@
 ### Welcome to the_lotus_git! 🌷 
-ps: ik that's a tulip emoji! couldn't find a lotus.
 
-Hi there! I'm Kamalam, an enthusiatic learner exploring areas in machine learning and data science. 
+Hi there! I'm Kamalam, an enthusiastic learner exploring areas in machine learning and ai. 
 
 I'm an ai/ml engineer by profession, delving into the world of research.
 
@@ -10,6 +9,7 @@ Do reach out to me for collaborations, suggestions, opportunities or just to cha
 Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:
 
 #### [resume_kamalam_sivakumar](https://kamalamsivakumar.github.io/resume/)
+ps: ik that's a tulip emoji! couldn't find a lotus.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
