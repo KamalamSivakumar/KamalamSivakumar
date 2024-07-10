@@ -1,6 +1,6 @@
 ### Welcome to the_lotus_git! 🌷 
 
-Hi there! I'm Kamalam, an enthusiastic learner exploring areas in machine learning and ai. 
+Hi there! I'm Kamalam, an enthusiastic learner exploring machine learning and ai. 
 
 I'm an ai/ml engineer by profession, delving into the world of research.
 
