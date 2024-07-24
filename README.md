@@ -1,12 +1,11 @@
 ## Welcome to the_lotus_git! 🌷
 
 I’m a tech enthusiast with a vibrant personality, known for my quirky and cheerful nature.  
-I’m passionate about cold-brew coffee, iced tea, and a good masal dosa.  
+I’m always down for a cold-brew coffee, an iced tea, or a good masal dosa. (I'd be real kushi about it!)  
 As someone who learns quickly and never backs down from a challenge, I’m always seeking ways to infuse excitement into my life through my unique traits.  
 In my professional role as an AI/ML engineer, I’m diving deep into research and the fascinating world of ai.  
 Feel free to connect with me for collaborations, insights, opportunities, or just a chat about all things tech! [linkedin](https://www.linkedin.com/in/kamalamsivakumar/)  
 Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:  
-#### [resume_kamalam_sivakumar](https://kamalamsivakumar.github.io/resume/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
