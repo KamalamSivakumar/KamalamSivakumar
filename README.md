@@ -2,6 +2,7 @@
 
 I’m a tech enthusiast with a vibrant personality, known for my quirky and cheerful nature.  
 I’m always down for a cold-brew coffee, an iced tea, or a good masal dosa. (I'd be real kushi about it!)  
+
 As someone who learns quickly and never backs down from a challenge, I’m always seeking ways to infuse excitement into my life through both my unique traits and everyday efforts.  
 In my professional role as an AI/ML engineer, I’m diving deep into research and the fascinating world of ai.  
 Feel free to connect with me for collaborations, insights, opportunities, or just a chat about all things tech! [linkedin](https://www.linkedin.com/in/kamalamsivakumar/)  
