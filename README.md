@@ -7,6 +7,7 @@ As someone who learns quickly and never backs down from a challenge, I’m alway
 In my professional role as an ai/ml engineer, I’m diving deep into research and the fascinating world of ai.  
 
 Feel free to connect with me for collaborations, insights, opportunities, or just a chat about all things tech! [linkedin](https://www.linkedin.com/in/kamalamsivakumar/)  
+[CV](https://github.com/KamalamSivakumar/KamalamSivakumar.github.io/blob/main/resume_kamalam_sivakumar.pdf)
 Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
