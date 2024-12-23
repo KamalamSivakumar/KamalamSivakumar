@@ -15,10 +15,10 @@ Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:
 #### machine learning || deep learning || exploratory data analysis || data visualisation || problem-solving  
 
 ### :chart_with_upwards_trend: _current_fields_of_interests_
-#### interpretability  || preference learning || reinforcement learning
+#### isaac sim  || preference learning || reinforcement learning
 
 ### :round_pushpin: _currently_exploring_
-#### prompt engineering || preference learning || fine-tuning llms || REST apis, django
+#### prompt engineering || preference learning || reinforcement learning || writing apis
 
 ### :paperclips: _will_work_on_
 #### optimisation in deep learning models
