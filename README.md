@@ -18,10 +18,10 @@ Checkout my blog: [the_lotus_blog](https://kamalamsivakumar.github.io/) :smile:
 #### isaac sim  || preference learning || reinforcement learning
 
 ### :round_pushpin: _currently_exploring_
-#### prompt engineering || preference learning || reinforcement learning || writing apis
+#### world models || preference learning || reinforcement learning || writing apis
 
 ### :paperclips: _will_work_on_
-#### optimisation in deep learning models
+#### foundations of robotics || ros
  
 ### :briefcase: _my_small_wins_
 #### reading books || playing kalimba || glass-painting
