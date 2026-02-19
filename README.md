@@ -1,6 +1,6 @@
 ## Welcome to the_lotus_git! 🌷
 
-I’m a curious person with a vibrant personality, known for my quirky and cheerful nature.  
+Curious person with a vibrant personality, known for my quirky and cheerful nature.  
 I’m always down for a cold-brew coffee, an iced tea, or a good masal dosa. (I'd be real kushi about it!)  
 
 I’m always seeking ways to infuse excitement into my life through both my unique traits and everyday efforts.  
